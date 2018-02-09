@@ -7,7 +7,7 @@ Who's a good dog? Who likes ear scratches? Well, it seems those fancy deep neura
 
 In this playground competition, you are provided a strictly canine subset of [ImageNet](https://www.kaggle.com/c/imagenet-object-detection-challenge) in order to practice fine-grained image categorization. How well you can tell your Norfolk Terriers from your Norwich Terriers? With 120 breeds of dogs and a limited number training images per class, you might find the problem more, err, ruff than you anticipated.
 
-
+![](/border_collies.png?raw=true)
 
 ---
 
